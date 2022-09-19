@@ -38,6 +38,7 @@ Header.propTypes = {
 
 Header.defaultProps = {
   siteTitle: ``,
+  testTile: '',
 }
 
 export default Header
